@@ -1,0 +1,25 @@
+# main links
+main:
+   - title: "Home"
+     url: /
+   - title: "About"
+     url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Contact"
+  #   url: /contact/
+  # - title: "Blog"
+  #   url: /blog/
+  # TO DO
+  # - title: "Résumé"
+  #   url: /resume/
+   - title: "Projects"
+     url: /projects/
+   - title: "Art Works"
+     url: /artworks/
+   - title: "Daily Learnings"
+     url: /learnings/
+   - title: "Sitemap"
+     url: /sitemap.xml
