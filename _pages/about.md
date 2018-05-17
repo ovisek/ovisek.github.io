@@ -9,8 +9,7 @@ permalink: /about/
 [abhisek-m@planet-earth]# whoami
 ```
 
-## Software Developer || Art Enthusiast || Audiophile || Thinker (read OVerthInker)
-
+## Software Developer / Art Enthusiast / Audiophile / Thinker (read OVerthInker)
 
 ```bash
 [abhisek-m@planet-earth]# date +%Y-%m-%d
@@ -21,7 +20,7 @@ permalink: /about/
 ```
 ### Bengaluru, Karnataka , India
 ```bash
-[abhisek-m@planet-earth]# echo $OLDPWD
+[abhisek-m@planet-earth]# echo $HOME
 ```
 ### Haldia, West Bengal, India
 
