@@ -1,130 +1,182 @@
 {
-  "basics": {
-    "name": "Richard Hendriks",
-    "label": "Programmer",
-    "picture": "",
-    "email": "richard.hendriks@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "https://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
-      }
-    ]
-  },
-  "work": [
-    {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "https://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "https://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
-    },
-    {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
+	"basics": {
+		"name": "Abhisek G. Mahapatra",
+		"label": "Automation/DevOps Engineer. Former IBM i Senior Software Developer",
+		"picture": "",
+		"email": "abhisek.g.mahapatra@gmail.com",
+		"phone": "+91 8056128320",
+		"website": "http://ovisek.github.io",
+		"summary": "I started my career as an Associate Graduate Trainee in 2011 after completing my Bachelor's Degree in Computer Science and have been associated with the IT industry since then, assuming diverse roles and responsibilities during this period.Initially, I worked as Software Developer on IBM i platform working on a Canadian mutual fund/insurance product primarily involved in developing and delivering software solutions. Later while I was promoted as a Senior Software Developer, I was involved in designing the technical solution and consulted on a critical functional module of the product, while engaged in other tasks like code deployment, testing support and production troubleshooting.Next, I worked as a Senior Consultant for a healthcare client based in North Carolina supporting and maintaining production critical applications.Currently, I am working in an automation/DevOps role that involves creating automated solutions for IBM i admin operations activities as well as setting up IBM i devices for monitoring and support that leverages my skills on scripting (Python, JavaScript, Java, Bash Scripting) as well as my strong background on IBM i platform."
+	},
+	"location": {
+		"address": "",
+		"postalCode": "560037",
+		"city": "Bengaluru",
+		"countryCode": "IN",
+		"region": "Karnataka"
+	},
+	"profiles": [{
+			"network": "GitHub",
+			"username": "ovisek",
+			"url": "https://github.com/ovisek"
+		},
+		{
+			"network": "LinkedIn",
+			"username": "abhisekgmahapatra",
+			"url": "https://www.linkedin.com/in/abhisekgmahapatra/"
+		}
+	],
+	"work": [{
+
+			"company": "IPsoft Global Services",
+			"position": "Senior iSeries Engineer",
+			"website": "http://ipsoft.com",
+			"startDate": "2016-03-21",
+			"summary": "I am working as an Automation / DevOps engineer with a strong background on IBM i / AS400 / iSeries platform application programming. My current role is that of an independent developer working closely with the AS400 operations team with responsibilities involving understanding the operations needs and challenges, identifying automation opportunities and implementing solutions contributing to continuous service improvement.",
+			"highlights": [
+				"Creating monitoring checks and automatons (IPautomata) for IBM i servers.",
+				"Maintaining and supporting IPcenter infrastructure (IPadmin/IPcmdb/IPdiscover).",
+				"Deploying monitoring checks for new or existing customers.",
+				"Conduct technical sessions and educate team to enable better productivity and efficiency in their day to day tasks."
+			]
+		},
+		{
+			"company": "NTT Data",
+			"website": "https://www.nttdata.com/global/en/",
+			"position": "Senior Consultant",
+			"startDate": "2015-03-11",
+			"endDate": "2016-03-11",
+			"summary": "",
+			"highlights": ["Troubleshooting production critical issues and providing prompt and accurate resolution and act as the primary on-call contact.", "Research and creating code design based on the requirement, coding, and unit testing and implementing the change to production.", "Reviewing the code and design and providing suggestions and feedback.", "Train and guide the new recruits, conduct technical sessions, share technical tips and knowledge.", "Coordinate with teams from different streams and work closely with them to understand and identify the interdependence for faster identification and resolution of issues."]
+		},
+		{
+			"company": "LTI",
+			"website": "https://www.lntinfotech.com/canada/products/",
+			"position": "Senior Software Developer",
+			"startDate": "2011-11-23",
+			"endDate": "2015-03-09",
+			"summary": "",
+			"highlights": ["Implementing the technical design into application code.", "Analyzing and understanding the business and functional requirement and modelling the technical design based on it.", "Designing test case and performing unit testing and integration testing.", "Provide technical support and troubleshooting in client production environment and act as primary pager contact.", "Involved during source comparison activities and production release support.", "During client onboarding acted as sole Offshore developer for Conversion activities", "Worked extensively on SEGFUNDS (segregated funds) a critical module of Unitrax and acted as Offshore Subject Matter Expert  on this module supporting other team members , resolving queries and reviewing code.", "Created a tool to validate the existence of required documents compliant with the SDLC lifecycle and generate a consolidated report  with the findings (using Windows Powershell).", "Redesigned existing tool to achieve optimization in terms of execution time to generate automated resource work allocation status report (using embedded SQL with VBA ).", "Made enhancements to a tool that tracks large object size in local development library."]
+		}
+	],
+	"education": [{
+			"institution": "JIS College of Engineering",
+			"area": "B.Tech",
+			"studyType": "Computer Science",
+			"startDate": "2008",
+			"endDate": "2011",
+			"gpa": "8.3",
+			"courses": []
+		},
+		{
+			"institution": "St. Xaviers School",
+			"area": "Higher Secondary",
+			"startDate": "2005",
+			"endDate": "2007",
+			"gpa": "75",
+			"courses": []
+		},
+		{
+			"institution": "St. Xaviers School",
+			"area": "Secondary",
+			"startDate": "",
+			"endDate": "",
+			"gpa": "83",
+			"courses": []
+		}
+	],
+	"skills": [{
+			"name": "Programming Languages",
+			"level": "",
+			"keywords": [
+				"Python",
+				"JavaScript",
+				"Java",
+				"SQL",
+				"COBOL/400",
+				"Control Language (CL) for IBM i",
+				"Bash Scripting"
+			]
+		},
+		{
+			"name": "Databases",
+			"level": "",
+			"keywords": [
+				"DB2",
+				"MySQL",
+				"Sqlite",
+				"MongoDB"
+			]
+		},
+		{
+			"name": "Tools/Libraries/Frameworks",
+			"level": "",
+			"keywords": [
+				"Git",
+				"Node.js",
+				"Express.js",
+				"Vagrant",
+				"Docker",
+				"openpyxl",
+				"numpy",
+				"pandas"
+			]
+		}
+	],
+	"awards": [{
+			"title": "BFS ACE award for Best Individual Performance",
+			"date": "",
+			"awarder": "LTI",
+			"summary": "Awarded for individual outstanding performance in project  for displaying good analytical skills and technical expertise that contributed to efficient technical design that was well received and appreciated by the clients."
+		},
+		{
+			"title": "BFS Pat on the Back ",
+			"date": "",
+			"awarder": "LTI",
+			"summary": "Awarded for being able to quickly grasp the business functionalities , work independently and active efforts to learn and contribute significantly to the application development team."
+		},
+		{
+			"title": "Emerging Star Award",
+			"date": "",
+			"awarder": "NTT DATA",
+			"summary": "Awarded for displaying great potential while handling new client account"
+		},
+		{
+			"title": "Spot Award",
+			"date": "",
+			"awarder": "NTT DATA",
+			"summary": "Awarded for technical contribution and training the new recruits"
+		}
+	],
+	"references": [],
+	"testimonials": [],
+	"languages": [{
+			"language": "English",
+			"level": "read/write"
+		},
+		{
+			"language": "Bengali",
+			"level": "native"
+		},
+		{
+			"language": "Hindi",
+			"level": "read/write"
+		}
+	],
+	"interests": [{
+			"name": "Art",
+			"summary": "Have a great passion for arts, sketching and sculpture",
+			"keywords": []
+		},
+		{
+			"name": "Music",
+			"summary": "An Audiophile",
+			"keywords": []
+		},
+		{
+			"name": "Reading",
+			"summary": "Like to read, mostly non-fiction / self development books and articles",
+			"keywords": []
+		}
+	]
 }
