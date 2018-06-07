@@ -32,6 +32,7 @@
 			"position": "Senior iSeries Engineer",
 			"website": "http://ipsoft.com",
 			"startDate": "2016-03-21",
+			"endDate": "",
 			"summary": "I am working as an Automation / DevOps engineer with a strong background on IBM i / AS400 / iSeries platform application programming. My current role is that of an independent developer working closely with the AS400 operations team with responsibilities involving understanding the operations needs and challenges, identifying automation opportunities and implementing solutions contributing to continuous service improvement.",
 			"highlights": [
 				"Creating monitoring checks and automatons (IPautomata) for IBM i servers.",
@@ -73,7 +74,7 @@
 			"area": "Higher Secondary",
 			"startDate": "2005",
 			"endDate": "2007",
-			"gpa": "75",
+			"percent": "75",
 			"courses": []
 		},
 		{
@@ -81,7 +82,7 @@
 			"area": "Secondary",
 			"startDate": "",
 			"endDate": "",
-			"gpa": "83",
+			"percent": "83",
 			"courses": []
 		}
 	],
