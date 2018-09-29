@@ -66,24 +66,21 @@
 			"studyType": "Computer Science",
 			"startDate": "2008",
 			"endDate": "2011",
-			"gpa": "8.3",
-			"courses": []
+			"gpa": "8.3"
 		},
 		{
 			"institution": "St. Xaviers School",
 			"area": "Higher Secondary",
 			"startDate": "2005",
 			"endDate": "2007",
-			"percent": "75",
-			"courses": []
+			"percent": "75"
 		},
 		{
 			"institution": "St. Xaviers School",
 			"area": "Secondary",
 			"startDate": "",
 			"endDate": "2005",
-			"percent": "83",
-			"courses": []
+			"percent": "83"
 		}
 	],
 	"skills": [{
