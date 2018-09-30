@@ -1,12 +1,22 @@
 {
 	"basics": {
 		"name": "Abhisek G. Mahapatra",
-		"label": "Automation/DevOps Engineer. Former IBM i Senior Software Developer",
+		"label": "**Automation/DevOps Engineer. Former IBM i Senior Software Developer**",
 		"picture": "",
 		"email": "abhisek.g.mahapatra@gmail.com",
 		"phone": "+91 8056128320",
 		"website": "http://ovisek.github.io",
-		"summary": "I started my career as an Associate Graduate Trainee in 2011 after completing my Bachelor's Degree in Computer Science and have been associated with the IT industry since then, assuming diverse roles and responsibilities during this period.Initially, I worked as Software Developer on IBM i platform working on a Canadian mutual fund/insurance product primarily involved in developing and delivering software solutions. Later while I was promoted as a Senior Software Developer, I was involved in designing the technical solution and consulted on a critical functional module of the product, while engaged in other tasks like code deployment, testing support and production troubleshooting.Next, I worked as a Senior Consultant for a healthcare client based in North Carolina supporting and maintaining production critical applications.Currently, I am working in an automation/DevOps role that involves creating automated solutions for IBM i admin operations activities as well as setting up IBM i devices for monitoring and support that leverages my skills on scripting (Python, JavaScript, Java, Bash Scripting) as well as my strong background on IBM i platform."
+		"summary": "
+        I started my career as an Associate Graduate Trainee in 2011 after completing my Bachelor's Degree in Computer Science and have been associated with the IT industry since then, assuming diverse roles and responsibilities during this period.
+        <br>
+		<br>
+        Initially, I worked as Software Developer on IBM i platform working on a Canadian mutual fund/insurance product primarily involved in developing and delivering software solutions. Later while working as a Senior Software Developer, I was involved in designing the technical solution and consulted on a critical functional module of the product, while engaged in other tasks like code deployment, testing support and production troubleshooting.
+        <br>
+		<br>
+		Next, I worked as a Senior Consultant for a healthcare client based in North Carolina supporting and maintaining production critical applications.
+        <br>
+		<br>
+		Currently, I am working in an automation/DevOps role that involves creating automated solutions for IBM i admin operations activities as well as setting up IBM i devices for monitoring and support that leverages my skills on scripting (Python, JavaScript, Java, Bash Scripting) as well as my strong background on IBM i platform."
 	},
 	"location": {
 		"address": "",

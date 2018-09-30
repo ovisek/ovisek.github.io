@@ -1,28 +1,28 @@
 ---
 layout: single
-title: Who art thou
+title: OVI who?
 permalink: /about/
 ---
 
 
-```bash
-[abhisek-m@planet-earth]# whoami
-```
+**``অভিষেক --> অভি --> OVI``**
 
-## Software Developer / Art Enthusiast / Audiophile / Thinker (read OVerthInker)
 
 ```bash
-[abhisek-m@planet-earth]# date +%Y-%m-%d
-```
+[ovisek@planet-earth]# whoami
+
+### Software Developer | Art Enthusiast | Audiophile | Thinker
+
+[ovisek@]# date +%Y-%m-%d
+
 ### 1989-03-23
-```bash
-[abhisek-m@planet-earth]# pwd
+
+[ovisek@planet-earth]# pwd
+
+### /India/Karnataka/Bengaluru
+
+[ovisek@planet-earth]# echo $HOME
+
+### /India/West Bengal/Haldia
+
 ```
-### Bengaluru, Karnataka , India
-```bash
-[abhisek-m@planet-earth]# echo $HOME
-```
-### Haldia, West Bengal, India
-
-
-
