@@ -68,7 +68,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : _abhisekm_
+  username               : _ovisek_
 facebook:
   username               : 
   app_id                 :
@@ -93,7 +93,7 @@ author:
   name             : "Abhisek Mahapatra"
   avatar           : https://avatars3.githubusercontent.com/u/30558788?s=400&u=adf623e70ce033f45edb22e25020ca836fd7ae09&v=4
 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Developer | Art Enthusiast | Audiophile | Thinker (read OVerthInker)"
+  bio              : "Software Developer | Art Enthusiast | Audiophile | Thinker"
   location         : "Bengaluru"
   email            : "abhisek.g.mahapatra@gmail.com"
   uri              :
