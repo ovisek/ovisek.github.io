@@ -125,6 +125,8 @@
 			"name": "Tools/Libraries/Frameworks",
 			"level": "",
 			"keywords": [
+				"IPcenter tools",
+				"IPautomata"
 				"Git",
 				"Node.js",
 				"Express.js",
