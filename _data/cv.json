@@ -49,12 +49,15 @@
 			"startDate": "2016-03-21",
 			"endDate": "",
 			"summary": "I am working as an Automation / DevOps engineer with a strong background on IBM i / AS400 / iSeries platform application programming. My current role is that of an independent developer working closely with the AS400 operations team with responsibilities involving understanding the operations needs and challenges, identifying automation opportunities and implementing solutions contributing to continuous service improvement.",
-			"highlights": [
+			"role and responsibilities": [
 				"Creating monitoring checks and automatons (IPautomata) for IBM i servers.",
 				"Maintaining and supporting IPcenter infrastructure (IPadmin/IPcmdb/IPdiscover).",
 				"Deploying monitoring checks for new or existing customers.",
 				"Conduct technical sessions and educate team to enable better productivity and efficiency in their day to day tasks."
-			]
+			],
+			"highlights": ["Designed and implemented an automation that enhanced the automatic resolution percentage from 60 to 90 % for one of our clients. It takes into account the various complex client rules and parses acts on them accordingly. The abstraction of configuration data from application allowed to accommodate any client rule changes with ease without having to modify the automaton.","Implemented a set of best practises and rules for automation creation for better maintainability and reuse. Also applied naming conventions for automations that facilitates easier search and provides a brief idea about the automation scope and purpose.","Setup CI/CD pipelines for development project using AWS CodeCommit ,  CodeBuild , CodePipeline , CodeDeploy enabling effient build and release cycles.","Used containerization technologies (Docker / Docker Swarm) for scaling up of monitoring units and to provide high availability.","Created a reporting framework that allowed the generation of report in a consistent format and allowing easy conversion between various file formats.","Designed an automaton component for capturing information from email requests and deciding actions based on the contents - this came in good use for cases where batch requests were required to be processed.","Created a catalog of IBM i system reports that allows the client to review the changes to system over a given time period , identify potential troublemakers and provide data points for decision making and fine tuining the system","Took over as the sole offshore developer for a client and contributed in existing development work with minimal guidance and self effort." ]
+
+
 		},
 		{
 			"company": "NTT Data",
